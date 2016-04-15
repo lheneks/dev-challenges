@@ -37,6 +37,7 @@ If you are more front-end focused we will understand if the data storage is some
   * Allow uploading a PDF document that represents a company's contract AND/OR
   * Use a document signature service like [DocuSign](https://www.docusign.com/) or [EchoSign](https://acrobat.adobe.com/us/en/documents/esignatures.html) 
 * Allow viewing the supplied PDF document either inline in a web page (ideally) or by clicking a link to download the file
+* Sorting on the Customer List page
 
 ## Technical Requirements
 * ASP.NET 5 or ASP.NET Core 1.x should be used
