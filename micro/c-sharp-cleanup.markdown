@@ -17,8 +17,7 @@ public string GetCountryData(int searchCountryID)
     }
     catch { }
 
-    /* ... */
-
+    var url = "http://someplace.net/countries/?country=" + coStr;
     var req = (HttpWebRequest) WebRequest.Create(new Uri(url));
 
     HttpWebResponse res = null;
