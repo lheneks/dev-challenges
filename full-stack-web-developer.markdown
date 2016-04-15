@@ -2,15 +2,18 @@ Create a simple web application to manage customer information.  Treat the chall
 If you are more back-end focused, we will understand if it isn't the prettiest, but do your professional best to at least have it look presentable.
 If you are more front-end focused we will understand if the data storage is something simple, but at least make it store somewhere.
 
-Business Requirements
+# Business Requirements
 
-Minimum Business Requirements
-Capture customer information 
-Company Name
-Required
-Website URL
-Optional with validation on URL format if supplied
-  If present there should be a Visit link next to the field to launch the site in a new tab/window
+## Minimum Business Requirements
+
+* Capture customer information 
+  * Company Name
+    * Required
+
+* Website URL
+  * Optional with validation on URL format if supplied
+  * If present there should be a Visit link next to the field to launch the site in a new tab/window
+  
 Industry 
 Dropdown with a few common / broad industry types, required, default "- Select an Industry -"
 Enterprise Client designation
