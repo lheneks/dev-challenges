@@ -33,8 +33,8 @@ all fields required, validation on email and phone format.
 
 ## Stretch Goal Business Requirements
 * Allow specifying a PDF document that represents a company's signed contract with us
-* Allow uploading a PDF document that represents a company's contract AND/OR
-* Use a document signature service like [DocuSign](https://www.docusign.com/) or [EchoSign](https://acrobat.adobe.com/us/en/documents/esignatures.html) 
+  * Allow uploading a PDF document that represents a company's contract AND/OR
+  * Use a document signature service like [DocuSign](https://www.docusign.com/) or [EchoSign](https://acrobat.adobe.com/us/en/documents/esignatures.html) 
 * Allow viewing the supplied PDF document either inline in a web page (ideally) or by clicking a link to download the file
 
 ## Technical Requirements
