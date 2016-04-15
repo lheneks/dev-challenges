@@ -22,12 +22,13 @@ If you are more front-end focused we will understand if the data storage is some
     * Representing our contacts with the customer.  Should be able to add, edit and delete.
     * Screen should be a modal dialog popup on the company edit page
     * Capture first and last name, primary email address, primary phone number, Primary Contact Checkbox
-all fields required, validation on email and phone format.
+	* All fields required, validation on email and phone format.
     * Only allow one contact to be marked primary
 * View list of all customers
   * Shows Company Name, Website URL link, and Primary Contact Full Name
+  * Company Name should be a link to view / edit customer detail  
   * Search / filter textbox to filter list of customers by Company Name, Industry, or Contact Name
-  * Button or link to Add a new Customer
+  * Button or link to Add a new Customer  
 * Customer List and Add/Edit should require being logged in (any type of authentication is fine)
 * Static About Us page with lorem ipsum placeholder text (does not require logging in)
 
