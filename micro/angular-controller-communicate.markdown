@@ -1,7 +1,7 @@
 ## Overview
 Given the below HTML and JavaScript, how would you implement the communicate function to make Ctrl1 talk to Ctrl2, so that the input text gets passed and displayed on the page? 
 
-Here's a [JSFiddle](http://jsfiddle.net/abdg8d5e/) you can fork to work in.
+Here's a [JSFiddle](http://jsfiddle.net/abdg8d5e/2/) you can fork to work in.
 
 ```HTML
 <div>
